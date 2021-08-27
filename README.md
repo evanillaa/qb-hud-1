@@ -1,49 +1,6 @@
-# QBCore Cosmo HUD
+# QBCore Framework
+qb-hud heavily modified by MisterBuzzee and Obtaizen
 
-Simple status HUD for FiveM and QBCore inspired by NoPixel 3.0.
+# Screenshot
+![Screenshot_1](https://user-images.githubusercontent.com/57309415/131060778-2461fe84-9922-41bc-9253-8b669cfca521.png)
 
-## Installation
-
-- Put 'cosmo_hud' into your 'resources' folder.
-
-- Edit config.lua to your liking.
-
-- Do not change the name or it will not work.
-
-## Requirements
-
-- QBCore
-
-- pma-voice
-
-- qb-radio (optional)
-
-- onesync infinity
-
-## Thanks to
-- https://github.com/GhzGarage/.
-- https://loading.io/progress/ for the loading-Bar library.
-
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
-
-## Changes
-
-- Changed the look and feel
-
-- Added belt indicator
-
-- Added cruise indicator
-
-Edited by Mirrox#2506
-
-Re-Edited by Nathan#8860
-
-- Updated belt indicator
-- Added harness back
-- Harness shows as seatbelt "on" in the hud
-
-Planned additions
-- Adding Bleeding status to the HUD
-
-## Screenshot
