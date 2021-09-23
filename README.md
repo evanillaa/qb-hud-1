@@ -2,7 +2,7 @@
 qb-hud heavily modified by MisterBuzzee and Obtaizen
 
 # Screenshot
-![Screenshot_5](https://user-images.githubusercontent.com/57309415/134574050-24b750b2-d82d-4f41-9e25-9f3c2e1273ff.png)
+![Screenshot_1](https://user-images.githubusercontent.com/57309415/134582207-2508d462-bf19-447d-9693-27f23f9d7816.png)
 
+![Screenshot_2](https://user-images.githubusercontent.com/57309415/134582225-e4d8e1eb-29e8-47fe-8c47-03cc85b65728.png)
 
-![Screenshot_6](https://user-images.githubusercontent.com/57309415/134574081-230e9bbf-e706-4cdd-ba67-1f784ad038fc.png)
