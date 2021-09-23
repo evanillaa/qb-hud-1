@@ -72,8 +72,8 @@ $(document).ready(function () {
   });
 
   FuelIndicator = new ProgressBar.Circle("#FuelCircle", { 
-    color: "rgba(70, 104, 135,)",
-    trailColor: "rgba(70, 104, 135, 0.6)",
+    color: "rgba(255, 255, 255,)",
+    trailColor: "rgba(255, 255, 255, 0.4)",
     strokeWidth: 10,
     duration: 2000,
     trailWidth: 10,
