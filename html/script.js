@@ -10,7 +10,7 @@ $(document).ready(function () {
 
   ArmorIndicator = new ProgressBar.Circle("#ArmorIndicator", {
     color: "rgb(0, 140, 255)",
-    trailColor: "rgba(247, 0, 0)",
+    trailColor: "rgba(0, 140, 255, 0.4)",
     strokeWidth: 15,
     trailWidth: 15,
     duration: 250,
@@ -46,7 +46,7 @@ $(document).ready(function () {
 
   StressIndicator = new ProgressBar.Circle("#StressIndicator", {
     color: "rgb(255, 101, 74)",
-    trailColor: "rgba((255, 101, 74, 0.4)",
+    trailColor: "rgba(255, 101, 74, 0.2)",
     strokeWidth: 15,
     trailWidth: 15,
     duration: 250,
@@ -72,11 +72,11 @@ $(document).ready(function () {
   });
 
   FuelIndicator = new ProgressBar.Circle("#FuelCircle", { 
-    color: "rgba(70, 104, 135, 1)",
-    trailColor: "rgba(0, 0, 0, 0.0)",
+    color: "rgba(70, 104, 135,)",
+    trailColor: "rgba(70, 104, 135, 0.6)",
     strokeWidth: 10,
     duration: 2000,
-    trailWidth: 6,
+    trailWidth: 10,
     easing: "easeInOut",
   });
 

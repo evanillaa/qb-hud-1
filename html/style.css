@@ -106,7 +106,7 @@ body {
   color: white;
   position: absolute;
   font-size: 1.3vh;
-  left: 0.8vh;
+  left: 0.3vh;
   bottom: 0.85vh;
 }
 
@@ -123,8 +123,8 @@ body {
   height: 5vh !important;
   position: absolute;
   font-size: 5vh;
-  left: 25.2vh;
-  bottom: 7.2vh;
+  left: 22.5vh;
+  bottom: 4.5vh;
   background: rgba(28, 27, 41, 0.8);
   transform: rotate(-180deg);
 }
@@ -144,8 +144,8 @@ body {
   width: 3vh !important;
   height: 3vh !important;
   position: absolute;
-  left: 22.6vh;
-  bottom: 4.8vh;
+  left: 25vh;
+  bottom: 9.7vh;
   background: rgba(28, 27, 41, 0.8);
   transform: rotate(-180deg);
 }
@@ -163,8 +163,8 @@ body {
   width: 3vh !important;
   height: 3vh !important;
   position: absolute;
-  left: 26.5vh;
-  bottom: 4.2vh;
+  left: 20vh;
+  bottom: 4vh;
   background: rgba(0, 0, 0, 0.0);
   transform: rotate(-180deg);
 }
